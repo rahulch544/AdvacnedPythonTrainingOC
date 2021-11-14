@@ -1,0 +1,5 @@
+interface='eth0'
+onboot=no
+bootstrub=dhcp
+Domain=example.com
+DNS=134.566.777.888

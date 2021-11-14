@@ -1,0 +1,7 @@
+Domain=example.com
+IP=10.20.30.40
+bootstrub=static
+prefix=24
+DNS=134.566.777.888
+interface='eth0'
+onboot=Yes

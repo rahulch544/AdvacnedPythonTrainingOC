@@ -1,0 +1,10 @@
+0,Ram0,text0number0
+1,Ram1,text1number1
+2,Ram2,text2number2
+3,Ram3,text3number3
+4,Ram4,text4number4
+5,Ram5,text5number5
+6,Ram6,text6number6
+7,Ram7,text7number7
+8,Ram8,text8number8
+9,Ram9,text9number9

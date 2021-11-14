@@ -1,0 +1,29 @@
+{rchamant:rchamant:feature/rchamant_bug-30645916_sprint_searu2111_CLOUDSQL_SUPPORT_TEST_ONLY_TXNS_ON_DBRU_CODE_LINES_TO_USE_CI_AUTOMATION:arudevdb} /scratch/rchamant/prod/supress_30645916                                                   % sqlplus aru/aru@ansandee
+
+SQL*Plus: Release 12.1.0.2.0 Production on Thu Nov 11 14:47:50 2021
+
+Copyright (c) 1982, 2014, Oracle.  All rights reserved.
+
+Last Successful login time: Thu Nov 11 2021 14:33:42 +00:00
+
+Connected to:
+Oracle Database 18c Enterprise Edition Release 18.0.0.0.0 - Production
+
+14:47:54 SQL> @isd/plsql/aru/aru_cumulative_request.pls
+
+Package created.
+
+14:47:57 SQL> @isd/plsql/aru/aru_cumulative_request.plb
+
+Package body created.
+
+No errors.
+14:48:04 SQL> @isd_upg/upgrade/ISD_201204_post/rchamant_bug-30645916_sprint_searu2111_CLOUDSQL_SUPPORT_TEST_ONLY_TXNS_ON_DBRU_CODE_LINES_TO_USE_CI_AUTOMATION/upg_data.sql
+96505
+
+PL/SQL procedure successfully completed.
+
+
+Commit complete.
+
+14:48:24 SQL> 

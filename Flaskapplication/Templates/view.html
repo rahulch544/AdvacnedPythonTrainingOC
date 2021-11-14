@@ -1,0 +1,22 @@
+<html>
+<body>
+
+<h2>Basic HTML Table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  {% for row in rows%}
+  <tr>
+    <td>{{row.firstname}}</td>
+    <td>{{row.lastname}}</td>
+    <td>{{row.age}}</td>
+  </tr>
+
+</table>
+
+</body>
+</html>

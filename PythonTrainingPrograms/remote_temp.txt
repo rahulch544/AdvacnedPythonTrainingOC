@@ -1,0 +1,13 @@
+Number of arguments passed are 1
+Input arguments are 
+log/
+maven/
+pls_33183889
+prod/
+wls/
+/scratch/rchamant/prod/pls_33266325
+---Started----
+----Bootstrap function called----
+series _name 21/10/11 01:30:22 
+ ----Bootstrap function completed----
+Value 0  

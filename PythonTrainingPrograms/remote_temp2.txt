@@ -1,0 +1,17 @@
+Number of arguments passed are 1
+Input arguments are 
+Automation for BACKPORT 30953224 with base bug 30952884 failed with reasons: APF-FARM-REGRESSIONS-HANDOVER, APF-ADE-CI-NO-LABEL-INFO, APF-INSUFFICIENT-METADATA, APF-INSUFFICIENT-METADATA, APF-INSUFFICIENT-METADATA, APF-INTERNAL-ERROR
+  FARM job details:
+  Job 25949134 started on 2020-02-26 18:16:07 with the following new difs:
+    lrgdbcon9o64: 1
+    lrgdbcon9of5: 1
+    lrgdbconfga3: 1
+    lrgdbconfgx1c: 1
+    lrgrscupg19park4: 1
+    lrgdbconrg95: 3
+    lrgdbcon9ov25: 12
+  Job 25981675 started on 2020-03-03 12:47:23 with the following new difs:
+    lrgrscupg19park4: 1
+  Job 25989364 started on 2020-03-04 14:20:57 with the following new difs:
+    lrgrscupg19park4: 1
+

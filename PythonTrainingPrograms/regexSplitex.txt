@@ -1,0 +1,4 @@
+101,raj-sales:1000
+204:anu,prod~2000
+450-leo:hr@3000
+564:bibu,sales%4000

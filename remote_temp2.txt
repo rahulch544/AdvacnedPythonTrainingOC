@@ -1,0 +1,4 @@
+Number of arguments passed are 1
+Input arguments are 
+Automation for BACKPORT 31670610 with base bug 31228670 succeeded
+
